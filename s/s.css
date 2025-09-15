@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    height: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#counter{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    margin: 250px auto;
+    width: 350px;
+    background-color: darkolivegreen;
+    border-radius: 10px;
+    padding: 20px 30px;
+    box-shadow: 10px 10px 10px white;
+} 
+#btn{
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-size: 70px;
+    font-weight: bold;
+
+}
+#add{
+    color: white;
+    font-size: 70px;
+      font-weight: bold;
+}
